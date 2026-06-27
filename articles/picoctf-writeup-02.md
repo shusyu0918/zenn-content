@@ -3,7 +3,7 @@ title: "picoCTF St3g0"
 emoji: "🕶️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ctf", "picoCTF", "linux", "security"]
-published: true
+published: false
 ---
 
 問題文：画像をダウンロードして、flagを見つけてみよう。
