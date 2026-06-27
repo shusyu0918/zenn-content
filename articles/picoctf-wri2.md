@@ -3,7 +3,6 @@ title: "picoCTF St3g0"
 emoji: "🕶️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ctf", "picoCTF", "linux", "security"]
-published: false
 published: true
 ---
 
@@ -23,7 +22,7 @@ grepコマンドで"pico"  "ctf"  "flag" 　を大文字小文字関係なく調
 ![](/images/writeup8.png)
 
 この結果から読める文字にflagは無さそう。
-次は、画像を実際に表示しみよう！
+次は、画像を実際に表示しみよう！！
 ![](/images/writeup9.png)
 
 画像を見ると特にflagを見つけることはでき無さそう。
