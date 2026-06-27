@@ -4,6 +4,7 @@ emoji: "🕶️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ctf", "picoCTF", "linux", "security"]
 published: false
+published: true
 ---
 
 問題文：画像をダウンロードして、flagを見つけてみよう。
