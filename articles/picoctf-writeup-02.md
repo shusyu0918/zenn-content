@@ -1,5 +1,5 @@
 ---
-title: "picoCTF St3g0 "
+title: "picoCTF St3g0"
 emoji: "🕶️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ctf", "picoCTF", "linux", "security"]
