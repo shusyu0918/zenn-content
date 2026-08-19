@@ -5,7 +5,7 @@ emoji: "🧃"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["burpsuite", "OWASP Juice Shop", "SQL Injection", "security"]
 published: true
----------------
+---
 
 私はPortSwiggerのSQL Injectionの問題を全問解き終わったため、OWASP Juice ShopのSQL Injectionの問題を解き始めました！！！!
 
