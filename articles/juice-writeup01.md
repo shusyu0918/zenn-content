@@ -15,13 +15,13 @@ published: true
 
 まず、ログイン画面を開きます。
 
-![](/OWASP images/juiceimages01.png)
+![](../images/juiceimages01.png)
 
 PortSwiggerの問題と違い、usernameとpasswordではなく、emailとpasswordか、、（別にそこまで変わらないのに解けない気がする😭😭😭）
 
 emailがどのような形式なのかを調べるため、商品詳細をどれでもいいから見てみるか。
 
-![](/OWASP images/juiceimages02.png)
+![](../images/juiceimages02.png)
 
 お！！Reviewsがあるぞ！！！！
 
@@ -29,7 +29,7 @@ emailがどのような形式なのかを調べるため、商品詳細をどれ
 
 押すと、
 
-![](/OWASP images/juiceimages03.png)
+![](../images/juiceimages03.png)
 
 やったー！！！
 
@@ -59,7 +59,7 @@ Reviewsから`@juice-sh.op`というemailの形式を確認できた。
 
 にして、パスワードは適当に文字を入力してっと。
 
-![](/OWASP images/juiceimages04.png)
+![](../images/juiceimages04.png)
 
 できたー！！！
 
